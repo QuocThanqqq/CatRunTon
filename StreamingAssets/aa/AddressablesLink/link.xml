@@ -5,6 +5,7 @@
     <type fullname="AssignOutputChannel" preserve="all" />
     <type fullname="Character" preserve="all" />
     <type fullname="CharacterAccessories" preserve="all" />
+    <type fullname="CharacterToken" preserve="all" />
     <type fullname="Coin" preserve="all" />
     <type fullname="CoinMagnet" preserve="all" />
     <type fullname="ExtraLife" preserve="all" />
